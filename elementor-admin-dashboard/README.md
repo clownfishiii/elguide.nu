@@ -18,9 +18,6 @@ This plugin adds a customizable admin-style dashboard widget that can be edited 
 
 ## Installation
 
-1. Copy the `elementor-admin-dashboard` folder into your WordPress installation under `wp-content/plugins/`.
-2. Log in to the WordPress admin dashboard and activate **Elementor Admin Dashboard** under **Plugins → Installed Plugins**.
-3. Ensure Elementor (and Elementor Pro if you use Theme Builder) is active.
 
 ## Creating a Dashboard in Elementor
 
